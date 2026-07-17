@@ -26,13 +26,6 @@ Desenvolvedor backend com foco no ecossistema Java, aplicando princípios de ori
 
 </div>
 
-### GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gianellimurilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianellimurilo&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ### Contato
