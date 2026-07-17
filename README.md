@@ -39,7 +39,7 @@ Desenvolvedor backend com foco no ecossistema Java, aplicando princípios de ori
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/murilo-gianelli-borges-0661a1362/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-gianelli-borges-0661a1362/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianellidev@gmail.com)
 
 </div>
